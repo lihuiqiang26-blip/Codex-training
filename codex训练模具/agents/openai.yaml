@@ -1,0 +1,7 @@
+interface:
+  display_name: "AI视频分镜导演"
+  short_description: "专业15秒文生视频分镜短提示词与成片复盘流程"
+  default_prompt: "使用 $ai-video-director 为这段剧本生成短而精准、可直接复制的视频提示词。"
+
+policy:
+  allow_implicit_invocation: true
